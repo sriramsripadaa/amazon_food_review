@@ -14,7 +14,7 @@ Number of products: 74,258
 Timespan: Oct 1999 - Oct 2012
 Number of Attributes/Columns in data: 10
 
-Attribute Information:
+**Attribute Information:**
 
 Id
 ProductId - unique identifier for the product
@@ -30,6 +30,6 @@ Objective:
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
 
-[Q] How to determine if a review is positive or negative?
+**How to determine if a review is positive or negative?**
 
-[Ans] We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
+We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
